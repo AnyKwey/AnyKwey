@@ -6,6 +6,7 @@ I'm a java French Developper.
 **What about me?**
 
   • I started to be interested by programming at 13 years old in beginning to create a Minecraft server with friend.
+  
   • I'm a java beginner developer from 2021, and I'm still learning everyday.
 
 **In which project I'm currently working?**
