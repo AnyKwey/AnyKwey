@@ -3,34 +3,30 @@
 I'm a java French Developper.
 
 
-**What about me?**
+### What about me?
 
   • I started to be interested by programming at 13 years old in beginning to create a Minecraft server with friend.
   
   • I'm a java beginner developer from 2021, and I'm still learning everyday.
 
-**In which project I'm currently working?**
+### In which project I'm currently working?
 
   • I was working on LandiaMC and more server with the same staff.
 
-**What are my favorite softwares for programming?**
+### What are my favorite softwares for programming?
+<img align="left" alt="Intellij IDEA " width="50px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
 
-![emoji](https://github.com/user-attachments/assets/74f7c47a-074c-4aa9-9772-886102fb96d5)
+### What languages/technologies do I know/I'm learning
 
-**What languages/technologies do I know/I'm learning**
-  • ❤️ I love:
-  
-![image](https://github.com/user-attachments/assets/b493a189-4912-49cf-b727-03cbc99febc6) ![image](https://github.com/user-attachments/assets/b0530386-019c-4417-a6de-20908a0a9fe4)
+• ❤️ I love:
+<img align="left" alt="Java " width="29,6px" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" />
+<img align="left" alt="MySQL " width="45,6px" src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" />
 
-
-  • 🔨 I need to learn:
-  
-![image](https://github.com/user-attachments/assets/34bb6fb2-4a9d-49be-9e3d-9a54a62746fa) ![image](https://github.com/user-attachments/assets/170531fb-9c2b-4017-ab2d-4be143168ddd) ![image](https://github.com/user-attachments/assets/32e5dfc0-0f95-4909-b5f4-8c585321f490) ![image](https://github.com/user-attachments/assets/4bcf50ba-233a-41ad-8eb6-c1e1a43c5f54)
-
-
-
-
-
+• 🔨 I need to learn:
+<img align="left" alt="Docker " width="54,6px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> 
+<img align="left" alt="CSS " width="38,6px" height="42,2px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
+<img align="left" alt="HTML " width="38,6px" height="42,2px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
+<img align="left" alt="JavaScript " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 
 <!---
 AnyKwey/AnyKwey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
