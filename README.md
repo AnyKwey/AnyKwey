@@ -15,7 +15,7 @@ I'm a java French Developper.
 
 **What are my favorite softwares for programming?**
 
-![image](https://github.com/user-attachments/assets/74f7c47a-074c-4aa9-9772-886102fb96d5)
+![emoji](https://github.com/user-attachments/assets/74f7c47a-074c-4aa9-9772-886102fb96d5)
 
 **What languages/technologies do I know/I'm learning**
   • ❤️ I love:
