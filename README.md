@@ -18,11 +18,11 @@ I'm a java French Developper.
 
 ### What languages/technologies do I know/I'm learning
 
-- ❤️ I love:
+- :heart: I love:
 <img align="left" alt="Java " width="29,6px" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" />
 <img align="left" alt="MySQL " width="45,6px" src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" />
 
-- 🔨 I need to learn:
+- :hammer: I need to learn:
 <img align="left" alt="Docker " width="54,6px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> 
 <img align="left" alt="CSS " width="38,6px" height="42,2px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
 <img align="left" alt="HTML " width="38,6px" height="42,2px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
