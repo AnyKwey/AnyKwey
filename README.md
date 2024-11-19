@@ -15,7 +15,7 @@ I'm a java French Developper.
 
 ### What are my favorite softwares for programming?
 
-<img align="left" alt="Intellij IDEA " width="50px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
+<img align="left" alt="Intellij IDEA " width="42px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
 
 ### What languages/technologies do I know/I'm learning
 
