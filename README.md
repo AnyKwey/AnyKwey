@@ -27,8 +27,11 @@ I'm a java French Developper.
 - :hammer: I need to learn:
 
 <img align="left" alt="Docker " width="54,6px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> 
+
 <img align="left" alt="CSS " width="38,6px" height="42,2px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
+
 <img align="left" alt="HTML " width="38,6px" height="42,2px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
+
 <img align="left" alt="JavaScript " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 
 <!---
