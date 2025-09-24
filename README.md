@@ -7,7 +7,7 @@ I'm a java French Developper.
 
   • ❓ I started to be interested by programming at 13 years old in beginning to create a Minecraft server with friend.
   
-  • 🤔 I'm a java beginner developer from 2021, and I'm still learning everyday.
+  • 🤔 I was a java developer from 2021, and I stopped learning since my professional conversion.
 
 ### How to reach me ?
 
@@ -16,6 +16,7 @@ I'm a java French Developper.
 ### In which project I'm currently working?
 
   • 🏝️ I was working on LandiaMC and more server with the same staff.
+  • 🚀 I was developing a server with huge potential but it was abandoned.
 
 ### What are my favorite softwares for programming?
 
